@@ -29,7 +29,7 @@ print (greeting+guests[4]+"!")
 print (greeting+guests[5]+"!")
 print (greeting+guests[6]+"!")
 
-print ("What a pitty! Our table has now shrunk and we can only keep two guest !\n")
+print ("What a pitty! We have "+str(len(guests))+" guests but our table has now shrunk and we can only keep two guest !\n")
 
 print ("Apologies Mr. "+guests.pop()+", we will have to do this some other time, tada!")
 print ("Apologies Mr. "+guests.pop()+", we will have to do this some other time, tada!")
@@ -40,3 +40,9 @@ print ("Apologies Mr. "+guests.pop()+", we will have to do this some other time,
 greeting="Your invitation is still valid and you are welcome to my humble home Mr. "
 print (greeting+guests[0]+"!")
 print (greeting+guests[1]+"!\n")
+
+del guests[0]
+del guests[0]
+
+print(guests)
+print(len(guests))

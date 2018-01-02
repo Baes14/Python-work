@@ -1,0 +1,13 @@
+places=["Bali", "Lisbone", "Pukett", "Acapulco", "Iceland"]
+print(places)
+print("\nHere's the list in Alphabetical order :")
+print(sorted(places))
+print(places)
+print(sorted(places, reverse=True))
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
+print(places)

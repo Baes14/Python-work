@@ -1,0 +1,598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"st",
+				"string_array"
+			],
+			[
+				"ge",
+				"gender"
+			],
+			[
+				"ki",
+				"kid_amount"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"firs",
+				"first_hash"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"top",
+				"topping_2"
+			],
+			[
+				"to",
+				"topping_2"
+			],
+			[
+				"so",
+				"soda_type"
+			],
+			[
+				"you",
+				"your_age"
+			],
+			[
+				"pro",
+				"proc"
+			],
+			[
+				"mat",
+				"match_files"
+			],
+			[
+				"ma",
+				"match_files"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"des",
+				"dest_dir"
+			],
+			[
+				"lo",
+				"local_file"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"img",
+				"img_urls"
+			],
+			[
+				"m",
+				"match_files"
+			],
+			[
+				"toz",
+				"--tozip"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"zip",
+				"zippath"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"exi",
+				"exit"
+			],
+			[
+				"special",
+				"specialfiles"
+			],
+			[
+				"sp",
+				"specialfiles"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"no",
+				"nameoffile"
+			],
+			[
+				"s",
+				"specialfiles"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"fi",
+				"filelist"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"Ma",
+				"MatchSpecial"
+			],
+			[
+				"com",
+				"commands"
+			],
+			[
+				"dir",
+				"dir"
+			],
+			[
+				"summary",
+				"summaryfile"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"lis",
+				"list1"
+			],
+			[
+				"nam",
+				"name_rank"
+			],
+			[
+				"n",
+				"name_rank"
+			],
+			[
+				"na",
+				"namerank"
+			],
+			[
+				"exe",
+				"extend"
+			],
+			[
+				"name",
+				"name_rank"
+			],
+			[
+				"ye",
+				"year_name_rank"
+			],
+			[
+				"y",
+				"year_name_rank"
+			],
+			[
+				"ne",
+				"name_rank"
+			],
+			[
+				"fin",
+				"findall"
+			],
+			[
+				"count",
+				"countwords"
+			],
+			[
+				"do",
+				"dictionnary"
+			],
+			[
+				"li",
+				"list2"
+			],
+			[
+				"l",
+				"list1"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"print",
+				"print_words"
+			],
+			[
+				"last",
+				"lasttup"
+			],
+			[
+				"sort",
+				"sorted"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"a-",
+				"a-front"
+			],
+			[
+				"repl",
+				"replace"
+			],
+			[
+				"p",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "name_cases.py",
+			"settings":
+			{
+				"buffer_size": 173,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "famous_quote.py",
+			"settings":
+			{
+				"buffer_size": 181,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stripping_names.py",
+			"settings":
+			{
+				"buffer_size": 101,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Pyhon",
+		"selected_items":
+		[
+			[
+				"Pyhon",
+				"Build With: Python"
+			],
+			[
+				"brower",
+				"Browser Integration: Reload"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/badouba/Tutorials/Python/python-work"
+	],
+	"file_history":
+	[
+		"/Users/badouba/Tutorials/Python/python-work/simple_message.py",
+		"/Users/badouba/Tutorials/Python/python-work/hello_world.py",
+		"/Users/badouba/Tutorials/Python/python-work/simple_messages.py",
+		"/Users/badouba/Tutorials/Python/python-work/name.py",
+		"/Users/badouba/Tutorials/Python/python-work/apostrophe.py",
+		"/Users/badouba/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/badouba/Desktop/python-work/hello_world.py",
+		"/Users/badouba/Desktop/css-resume/css/hello_world.py",
+		"/Users/badouba/Desktop/css-resume/css/styles.css",
+		"/Users/badouba/Desktop/css-resume/index.html",
+		"/Users/badouba/Desktop/css-resume/styles.css",
+		"/Users/badouba/Dropbox/Photos/badou2.jpg",
+		"/Users/badouba/Library/Application Support/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "name_cases.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "famous_quote.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stripping_names.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 424.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "python-work.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
